@@ -20,7 +20,3 @@ As a core course in computer science, CS70 not only teaches you the mathematical
 ### Where to find the resources ?
 
 this repository contains all the learning resources for CS70 2020fall version. You can check its [official website](http://www.eecs70.org) to learn more !
-
-### What to learn more ?
-
-Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) which contains all my self-learning materials : )
